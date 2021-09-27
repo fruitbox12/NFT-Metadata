@@ -8,7 +8,7 @@ I felt the bitter disappointment expressed by my colleague and his brave act in 
 
 “Perhaps the 80-20 rule will help.” - I suggested. 
 
-*
+***
 
 The 80-20, also known as Pareto principle, refers to an observation in business stating that 80% of the outputs can be acquired with 20% of the inputs. It is being applied to many areas. 
 In commerce, 80% of the product features could be purchased by 20% of the cost. 
@@ -21,7 +21,7 @@ If one could identify the 20% of the work that will satisfy 80% of the assignmen
 
 The 80-20 rule is a great guide when deciding on priorities at work. What happens if these priorities do not depend on us? There is the 90-10 rule for this.
 
-*
+***
 
 The 90-10 rule states that 10% of life is made up of what happens to you and 90% of life is decided by how you react. 
 
@@ -33,7 +33,7 @@ Or we can choose a thoughtful and positive acceptance of the tight deadline with
 
 Great! 20% of our efforts will create most of the outcomes. And 90% of what happens depends on our choice to stay positive. But how do we choose our top priority tasks?  
 
-*
+***
 
 The power of the tree is a rule that motivates working on the top three priorities. In business, the magic number of three comes from the Law of Diminishing Returns.
 
@@ -49,5 +49,5 @@ Use your intuition to finalize the list.
 
 You are ready, set and start working on it.
 
-*
+***
 Setting priorities comes from our imagination, skills and desires. We will choose priorities in different ways and there isn’t right or wrong. It is an art that we can master.
