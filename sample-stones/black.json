@@ -1,7 +1,7 @@
 {
   "name": "Black Stone",
   "description": "Black stone found at the beach",
-  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/black.jpg",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/sample-stones/black.jpg",
   "attributes": [
       {
       "trait_type": "Color", 
