@@ -1,0 +1,24 @@
+{
+	"name": "Stone #{id}",
+	"description": "Stone found on the beach",
+	"image": "https:\/\/raw.githubusercontent.com\/BDU-NFT-Course\/NFT-Metadata\/main\/sample-stones-erc1155\/{id}.jpg",
+	"properties": {
+		"simple_property": "example value",
+		"rich_property": {
+			"name": "Name",
+			"value": "123",
+			"display_value": "123 Example Value",
+			"class": "emphasis",
+			"css": {
+				"color": "#ffffff",
+				"font-weight": "bold",
+				"text-decoration": "underline"
+			}
+		},
+		"array_property": {
+			"name": "Name",
+			"value": [1,2,3,4],
+			"class": "emphasis"
+		}
+	}
+}
