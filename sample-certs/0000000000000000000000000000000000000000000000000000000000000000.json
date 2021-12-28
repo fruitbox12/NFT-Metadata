@@ -1,0 +1,15 @@
+{
+  "name": "Wisdom Hub Certificates: Level 0",
+  "description": "Personalized Learning Paths",
+  "image": "https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/sample-certs/cert0.png",
+  "attributes": [
+      {
+      "trait_type": "Level", 
+      "value": 0
+    }, 
+    {
+      "trait_type": "Tutorial", 
+      "value": "https://github.com/BlockDevsUnited" 
+    }
+      ]
+}

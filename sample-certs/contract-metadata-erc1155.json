@@ -1,0 +1,8 @@
+{
+    "name": "Wisdom Hub Certificates",
+    "description": "A highly experimental project for developing personalized learning paths",
+    "image": "https://raw.githubusercontent.com/BDU-NFT-Course/NFT-Metadata/main/sample-wisdomhub/00-logo_wiadomhub.png",
+    "external_link": "https://github.com/BDU-NFT-Course/",
+    "seller_fee_basis_points": 100, 
+    "fee_recipient": "0x641C0493C70C3acB36d7331f8888d3b2Fa53E113" 
+}
